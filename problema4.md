@@ -1,0 +1,1 @@
+- Tendo em vista que no instante em que o carro e o caminhão se cruzarem eles assumem a mesma posição relativa do percurso, conclui-se que ambos estão a mesma distância da cidade de Ribeirão Preto, independente de suas velocidades ou pedágios.
